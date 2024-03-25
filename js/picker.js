@@ -3,7 +3,9 @@
 let data;
 
 async function caricaJSON() {
-	const response = await fetch('places/places.json');
+	const response = await fetch(
+		'https://raw.githubusercontent.com/66Bunz/locali-torino/main/places/places.json'
+	);
 	const json = await response.json();
 	return json;
 }
