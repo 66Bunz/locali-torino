@@ -1,0 +1,82 @@
+<!-- @format -->
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link rel="stylesheet" href="/css/style.css" />
+		<meta name="theme-color" content="#4BD765" />
+		<link
+			href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap"
+			rel="stylesheet" />
+		<script
+			src="https://kit.fontawesome.com/ef45fd5e0a.js"
+			crossorigin="anonymous"></script>
+		<script type="text/javascript" src="/js/picker.js"></script>
+		<title>Locali Torino</title>
+		<link rel="icon" type="image/x-icon" href="/img/logo.webp" />
+		<!-- Google tag (gtag.js) -->
+		<script
+			async
+			src="https://www.googletagmanager.com/gtag/js?id=G-JXCQBP58ZR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag() {
+				dataLayer.push(arguments);
+			}
+			gtag('js', new Date());
+
+			gtag('config', 'G-JXCQBP58ZR');
+		</script>
+	</head>
+
+	<body>
+		<header>
+			<nav class="navbar">
+				<div class="logo">
+					<a href="/"><img src="/img/logo.webp" alt="Logo" /></a>
+				</div>
+				<div class="site-name">
+					<a href="/">
+						<h4>Locali Torino</h4>
+					</a>
+				</div>
+				<!-- <ul class="nav-links">
+        <input type="checkbox" id="checkbox_toggle" />
+        <label for="checkbox_toggle" class="hamburger">&#9776;</label>
+        <div class="menu">
+          <li><a href="/archive/">Archivio Messaggi</a></li>
+          <li><a href="/picker/">Date Picker</a></li>
+        </div>
+      </ul> -->
+			</nav>
+		</header>
+
+		<main class="picker-page">
+			<h1>Dove andiamo?</h1>
+
+			<div class="pasto-select">
+				<label for="pasto">Seleziona il tipo di pasto:</label>
+				<select id="pasto">
+					<option value="colazione">Colazione</option>
+					<option value="brunch">Brunch</option>
+					<option value="pranzo">Pranzo</option>
+					<option value="merenda">Merenda</option>
+					<option value="aperitivo">Aperitivo</option>
+					<option value="cena">Cena</option>
+					<option value="notturno">Notturno</option>
+					<option value="tutti">Tutti</option>
+				</select>
+				<button id="mostraScelta" onclick="mostraScelta()">
+					Mostra Scelta
+				</button>
+			</div>
+
+			<div class="risultato" id="risultato">
+				<!-- Il risultato verrà visualizzato qui -->
+			</div>
+		</main>
+	</body>
+</html>

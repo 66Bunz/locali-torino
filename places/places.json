@@ -1,0 +1,272 @@
+[
+	{
+		"id": 1,
+		"nome": "Bell’e Buon Street Food Partenopeo",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena", "aperitivo"],
+		"google_maps": "https://maps.app.goo.gl/iyme2RDDNM8GtE1o7",
+		"sito": "https://www.bellebuontorino.it/",
+		"immagine": "places/img/1.webp"
+	},
+	{
+		"id": 2,
+		"nome": "TIRATISU | La casa del tiramisù",
+		"tipo": ["cibo"],
+		"pasto": ["colazione", "merenda"],
+		"google_maps": "https://maps.app.goo.gl/67rdhnHiApeVUT7E9",
+		"sito": "https://www.instagram.com/tiratisutorino/",
+		"immagine": "places/img/2.webp"
+	},
+	{
+		"id": 3,
+		"nome": "Mr. PIG La Bottega del Panino",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena", "aperitivo"],
+		"google_maps": "https://maps.app.goo.gl/9G9iiKT9XHbCYYD39",
+		"sito": "https://www.mrpigtorino.com/",
+		"immagine": "places/img/3.webp"
+	},
+	{
+		"id": 4,
+		"nome": "Tauer Bakery",
+		"tipo": ["cibo"],
+		"pasto": ["colazione", "brunch", "merenda"],
+		"google_maps": "https://maps.app.goo.gl/zgwB3oiHcmCBxDyu9",
+		"sito": "https://www.tauer-to.it/",
+		"immagine": "places/img/4.webp"
+	},
+	{
+		"id": 5,
+		"nome": "WÈMÀ",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/5kZkJo4SN46fad3NA",
+		"sito": "https://www.wemapizzeria.com/",
+		"immagine": "places/img/5.webp"
+	},
+	{
+		"id": 6,
+		"nome": "Cornetti Night",
+		"tipo": ["cibo"],
+		"pasto": ["notturno"],
+		"google_maps": "https://maps.app.goo.gl/z3AUZS6NbdbaGit5A",
+		"sito": "https://www.cornettinight.it/",
+		"immagine": "places/img/6.webp"
+	},
+	{
+		"id": 7,
+		"nome": "Maybu",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/mefhCurvcqCxGNkd6",
+		"sito": "https://www.maybu.it/",
+		"immagine": "places/img/7.webp"
+	},
+	{
+		"id": 8,
+		"nome": "Amacai",
+		"tipo": ["cibo"],
+		"pasto": ["merenda"],
+		"google_maps": "https://maps.app.goo.gl/FGsGsYyiR8nnoyCK8",
+		"sito": "https://www.instagram.com/amacai_it/?hl=it",
+		"immagine": "places/img/8.webp"
+	},
+	{
+		"id": 9,
+		"nome": "BAO LAB",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "aperitivo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/s558wRRaYuFyZvhW8",
+		"sito": "https://www.baolab.it/",
+		"immagine": "places/img/9.webp"
+	},
+	{
+		"id": 10,
+		"nome": "Kintsugi tea&cakes",
+		"tipo": ["cibo"],
+		"pasto": ["brunch", "merenda"],
+		"google_maps": "https://maps.app.goo.gl/vPYuZ3929AtfkQsN9",
+		"sito": "https://www.instagram.com/kintsugiteandcakes/",
+		"immagine": "places/img/10.webp"
+	},
+	{
+		"id": 11,
+		"nome": "Guscio",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "aperitivo"],
+		"google_maps": "https://maps.app.goo.gl/1Kw9Qa2XLQkhUz9e8",
+		"sito": "https://www.gusciotorino.it/",
+		"immagine": "places/img/11.webp"
+	},
+	{
+		"id": 12,
+		"nome": "cRust Torino",
+		"tipo": ["cibo"],
+		"pasto": ["cena"],
+		"google_maps": "https://maps.app.goo.gl/gh5WhcyMu4rAW3gm8",
+		"sito": "https://crustasti.it/",
+		"immagine": "places/img/12.webp"
+	},
+	{
+		"id": 13,
+		"nome": "Mr Kim",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/4BcQHxyW4KjgnZVH9",
+		"sito": "https://mrkim.it/",
+		"immagine": "places/img/13.webp"
+	},
+	{
+		"id": 14,
+		"nome": "Ma Boh! mangia&bevi",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "aperitivo", "cena", "notturno"],
+		"google_maps": "https://maps.app.goo.gl/GAQ2g6FSMSWLtAaeA",
+		"sito": "https://www.instagram.com/maboh_torino/",
+		"immagine": "places/img/14.webp"
+	},
+	{
+		"id": 15,
+		"nome": "La Piòla d'le 2 Sorele",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/NtDURrf7kW8pPGrb9",
+		"sito": "https://lapioladle2surele.it/",
+		"immagine": "places/img/15.webp"
+	},
+	{
+		"id": 16,
+		"nome": "Ciro Petrucci",
+		"tipo": ["cibo"],
+		"pasto": ["colazione", "brunch", "pranzo"],
+		"google_maps": "https://maps.app.goo.gl/MGyqqa2jYsEeiC436",
+		"sito": "https://www.instagram.com/_ciropetrucci1972_/",
+		"immagine": "places/img/16.webp"
+	},
+	{
+		"id": 17,
+		"nome": "Swag food and drink",
+		"tipo": ["cibo"],
+		"pasto": ["aperitivo", "notturno"],
+		"google_maps": "https://maps.app.goo.gl/jqus5FEnwuYetXpn8",
+		"sito": "https://www.instagram.com/swag_drinkandfood/",
+		"immagine": "places/img/17.webp"
+	},
+	{
+		"id": 18,
+		"nome": "Dimsum di luca",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/ETaKM1FK9o1r5ees6",
+		"sito": "https://www.instagram.com/dimsumdiluca/",
+		"immagine": "places/img/18.webp"
+	},
+	{
+		"id": 19,
+		"nome": "We Grill",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/NvRdzpRWXyqC5G27A",
+		"sito": "https://we-grill.it/",
+		"immagine": "places/img/19.webp"
+	},
+	{
+		"id": 20,
+		"nome": "Pasticceria Piscitella",
+		"tipo": ["cibo"],
+		"pasto": ["colazione", "brunch", "merenda"],
+		"google_maps": "https://maps.app.goo.gl/s3MhvoTzo7QcPAsL7",
+		"sito": "https://www.instagram.com/pasticceriapiscitella/",
+		"immagine": "places/img/20.webp"
+	},
+	{
+		"id": 21,
+		"nome": "LAO 老",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/ih9PBQqF3dPkyhpW9",
+		"sito": "https://linktr.ee/lao.torino",
+		"immagine": "places/img/21.webp"
+	},
+	{
+		"id": 22,
+		"nome": "Smashy - Smash Burgers & Fries",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/h8pSMig1V6qzKBiA8",
+		"sito": "https://smashburgersandfries.com/",
+		"immagine": "places/img/22.webp"
+	},
+	{
+		"id": 23,
+		"nome": "La Terrasanta",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/w1jxsTyLPVK8MDwx6",
+		"sito": "https://www.instagram.com/laterrasanta_torino/",
+		"immagine": "places/img/23.webp"
+	},
+	{
+		"id": 24,
+		"nome": "FERMENTO Care & Passion",
+		"tipo": ["cibo"],
+		"pasto": ["cena"],
+		"google_maps": "https://maps.app.goo.gl/fRDQKQzP6nTjBxyb9",
+		"sito": "https://fermentocarepassion.com/",
+		"immagine": "places/img/24.webp"
+	},
+	{
+		"id": 25,
+		"nome": "The Forest - Cucina Gourmet & Cocktail Bar",
+		"tipo": ["cibo"],
+		"pasto": ["aperitivo", "cena", "notturno"],
+		"google_maps": "https://maps.app.goo.gl/cN5QkCvefiBcvu4Y8",
+		"sito": "http://the-forest.it/",
+		"immagine": "places/img/25.webp"
+	},
+	{
+		"id": 26,
+		"nome": "Scugnizzo",
+		"tipo": ["cibo"],
+		"pasto": ["cena"],
+		"google_maps": "https://maps.app.goo.gl/qbmvkEYtGp3GKjvu9",
+		"sito": "https://scugnizzotorino.it/",
+		"immagine": "places/img/26.webp"
+	},
+	{
+		"id": 27,
+		"nome": "FEROZA",
+		"tipo": ["cibo"],
+		"pasto": ["pranzo", "cena"],
+		"google_maps": "https://maps.app.goo.gl/zQ7ynz8ZWhLAye4T6",
+		"sito": "http://www.feroza.it/",
+		"immagine": "places/img/27.webp"
+	},
+	{
+		"id": 28,
+		"nome": "Impasto",
+		"tipo": ["cibo"],
+		"pasto": ["cena"],
+		"google_maps": "https://maps.app.goo.gl/92HeiFFzXcqZNrX56",
+		"sito": "https://impastotorino.wixsite.com/",
+		"immagine": "places/img/28.webp"
+	},
+    {
+        "id": 29,
+        "nome": "Kirikk Kaffe",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/yBMzwdu8nuUVhb4a6",
+        "sito": "https://www.kirkukkaffe.com/",
+        "immagine": "places/img/29.webp"
+    },
+    {
+        "id": 30,
+        "nome": "Fondoo",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/BmB9iqaMjjf4oZUa7",
+        "sito": "https://fondoo.ch/",
+        "immagine": "places/img/30.webp"
+    }
+]
