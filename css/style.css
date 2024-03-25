@@ -215,7 +215,7 @@ input[type='checkbox'] {
 
 .card-title {
 	font-size: 30px;
-    color: var(--accents-text-color-2)
+	color: var(--accents-text-color-2);
 }
 
 .card-image {
@@ -244,4 +244,52 @@ input[type='checkbox'] {
 
 .card-buttons .card-button:hover {
 	background-color: #fb8b24;
+}
+
+@media screen and (max-width: 1080px) {
+	.picker-page h1 {
+		font-size: 70px;
+	}
+
+	.card {
+		width: 80%;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.picker-page h1 {
+		font-size: 60px;
+	}
+
+	.card {
+		width: 90%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	.picker-page {
+		margin-top: calc(100px + 1vh);
+	}
+
+	.picker-page h1 {
+		font-size: 50px;
+		align-items: center;
+		justify-content: center;
+		text-align: center;
+	}
+
+	.pasto-select {
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		justify-content: center;
+	}
+
+	.pasto-select * {
+		margin-bottom: 10px;
+	}
+
+	.card {
+		width: 100%;
+	}
 }
