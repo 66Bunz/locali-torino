@@ -22,9 +22,15 @@ async function mostraScelta() {
 	const pastoSelect = document.getElementById('pasto');
 
 	const tipoPastoScelto = pastoSelect.value;
-	const postiFiltrati = data.filter((place) =>
-		place.pasto.includes(tipoPastoScelto)
-	);
+
+	let postiFiltrati;
+	if (tipoPastoScelto === 'tutti') {
+		postiFiltrati = data;
+	} else {
+		postiFiltrati = data.filter((place) =>
+			place.pasto.includes(tipoPastoScelto)
+		);
+	}
 
 	if (postiFiltrati.length > 0) {
 		const postoCasuale =
