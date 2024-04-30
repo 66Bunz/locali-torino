@@ -268,5 +268,14 @@
         "google_maps": "https://maps.app.goo.gl/BmB9iqaMjjf4oZUa7",
         "sito": "https://fondoo.ch/",
         "immagine": "places/img/30.webp"
+    },
+    {
+        "id": 31,
+        "nome": "PlinTO",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/r6bMCvymLiqMbZ126",
+        "sito": "https://plintoravioli.it/",
+        "immagine": "places/img/31.webp"
     }
 ]
