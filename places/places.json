@@ -253,7 +253,7 @@
 	},
     {
         "id": 29,
-        "nome": "Kirikk Kaffe",
+        "nome": "Kirkuk Kaffe",
         "tipo": ["cibo"],
         "pasto": ["pranzo", "cena"],
         "google_maps": "https://maps.app.goo.gl/yBMzwdu8nuUVhb4a6",
@@ -277,5 +277,86 @@
         "google_maps": "https://maps.app.goo.gl/r6bMCvymLiqMbZ126",
         "sito": "https://plintoravioli.it/",
         "immagine": "places/img/31.webp"
+    },
+    {
+        "id": 32,
+        "nome": "Ci Sta Friendly Pizza",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/yMceUXg6fubJcvwn7",
+        "sito": "http://www.cistapizza.com/",
+        "immagine": "places/img/32.webp"
+    },
+    {
+        "id": 33,
+        "nome": "Madama Burger",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/StcWqsyK2xbATrTW8",
+        "sito": "https://www.instagram.com/madama_burger",
+        "immagine": "places/img/33.webp"
+    },
+    {
+        "id": 34,
+        "nome": "Napples - Antica Pizzeria e Friggitoria Partenopea",
+        "tipo": ["cibo"],
+        "pasto": ["cena"],
+        "google_maps": "https://maps.app.goo.gl/QFfnJvAUktQYsepq7",
+        "sito": "https://www.napples.it/",
+        "immagine": "places/img/34.webp"
+    },
+    {
+        "id": 35,
+        "nome": "KINÉ",
+        "tipo": ["cibo"],
+        "pasto": ["aperitivo", "notturno"],
+        "google_maps": "https://maps.app.goo.gl/18oXSF7rCTFApxgw6",
+        "sito": "https://www.instagram.com/kine.torino",
+        "immagine": "places/img/35.webp"
+    },
+    {
+        "id": 36,
+        "nome": "/ pʌɪ / PAI Bikery",
+        "tipo": ["cibo"],
+        "pasto": ["colazione", "brunch", "pranzo", "merenda"],
+        "google_maps": "https://maps.app.goo.gl/yBDCELPfS3b3Pzzy8",
+        "sito": "https://paibikery.com/menu/everyday",
+        "immagine": "places/img/36.webp"
+    },
+    {
+        "id": 37,
+        "nome": "Fratelli La Cozza",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/oM8DmpMhzmwu7sAD6",
+        "sito": "http://www.lacozza.com/",
+        "immagine": "places/img/37.webp"
+    },
+    {
+        "id": 38,
+        "nome": "Gandhi",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/65YEmM6yxQgK5Tz1A",
+        "sito": "http://www.gandhitorino.it/",
+        "immagine": "places/img/38.webp"
+    },
+    {
+        "id": 39,
+        "nome": "Fabbrica di birra Metzger",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "aperitivo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/LmCJapptkXPUyNuT9",
+        "sito": "https://www.instagram.com/fabbricadibirra.metzger/",
+        "immagine": "places/img/39.webp"
+    },
+    {
+        "id": 40,
+        "nome": "Cinepizza",
+        "tipo": ["cibo"],
+        "pasto": ["pranzo", "cena"],
+        "google_maps": "https://maps.app.goo.gl/GkCkhCo8FL4WwYpS8",
+        "sito": "http://cine.pizza/",
+        "immagine": "places/img/40.webp"
     }
 ]
