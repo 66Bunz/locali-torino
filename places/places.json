@@ -216,15 +216,6 @@
 		"immagine": "places/img/24.webp"
 	},
 	{
-		"id": 25,
-		"nome": "The Forest - Cucina Gourmet & Cocktail Bar",
-		"tipo": ["cibo"],
-		"pasto": ["aperitivo", "cena", "notturno"],
-		"google_maps": "https://maps.app.goo.gl/cN5QkCvefiBcvu4Y8",
-		"sito": "http://the-forest.it/",
-		"immagine": "places/img/25.webp"
-	},
-	{
 		"id": 26,
 		"nome": "Scugnizzo",
 		"tipo": ["cibo"],
